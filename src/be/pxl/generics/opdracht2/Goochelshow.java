@@ -1,4 +1,4 @@
-package be.pxl.generics.opdracht1;
+package be.pxl.generics.opdracht2;
 
 public class Goochelshow {
 	public static void main(String[] args) {

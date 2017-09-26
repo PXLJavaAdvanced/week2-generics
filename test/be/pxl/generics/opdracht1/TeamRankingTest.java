@@ -1,4 +1,4 @@
-package be.pxl.generics.opdracht2;
+package be.pxl.generics.opdracht1;
 
 import static org.junit.Assert.assertEquals;
 

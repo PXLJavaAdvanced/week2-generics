@@ -1,4 +1,4 @@
-package be.pxl.generics.opdracht2;
+package be.pxl.generics.opdracht1;
 
 public class LeagueTest {
 	
